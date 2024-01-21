@@ -4,7 +4,7 @@ int main() {
    
     int matriz[3][3];
 
-    
+    //Calcular elementos da matriz inseridos por 5
     printf("Digite os elementos da matriz 3x3:\n");
     for (int i = 0; i < 3; i++) {
         for (int j = 0; j < 3; j++) {
